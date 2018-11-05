@@ -1,3 +1,3 @@
 # my-first-blog
-just for fun
+just for fun,
 testing purposes only
